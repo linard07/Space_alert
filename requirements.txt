@@ -1,0 +1,18 @@
+# =============================================================================
+# SPACE ALERT 2026 – Dependências
+# =============================================================================
+# Instale com:  pip install -r requirements.txt
+# Python recomendado: 3.10 ou 3.11
+
+# Visão Computacional
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# Detecção de objetos (YOLO)
+ultralytics>=8.2.0        # inclui YOLOv8 / YOLOv10 / YOLOv11
+
+# Detecção de poses e landmarks
+mediapipe>=0.10.9
+
+# Utilitários
+Pillow>=10.3.0            # usado internamente pelo ultralytics
