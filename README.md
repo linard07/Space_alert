@@ -226,6 +226,9 @@ space-alert-2026/
 
 ---
 
+Link do Video explicativo:
+https://youtu.be/9UlKdFQs63k
+
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos no âmbito da Global Solution 2026 – FIAP.
